@@ -9,8 +9,8 @@
   linkedin : linkedin.com/in/himanshu-shukla-6377471a0
   
 - Languages: 
-  advance : c, c++, java, html, css.
-  intermediate: puython, javascript.
+  - advance : c, c++, java, html, css.
+  - intermediate: puython, javascript.
 - Frame works:
   jQuary, jsp, scss.
 <!---
