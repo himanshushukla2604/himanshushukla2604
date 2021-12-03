@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning full stack webdevlopment, flutter, android...
 - 💞️ I’m looking to collaborate on web based projects...
 - 📫 How to reach me...
-  email : himanshushukla1805@gmail.com
-  alternate email : it1928@global.org.in
-  contact number: +918602897727
-  linkedin : linkedin.com/in/himanshu-shukla-6377471a0
+  - email : himanshushukla1805@gmail.com
+  - alternate email : it1928@global.org.in
+  - contact number: +918602897727
+  - linkedin : linkedin.com/in/himanshu-shukla-6377471a0
   
 - Languages: 
   - advance : c, c++, java, html, css.
