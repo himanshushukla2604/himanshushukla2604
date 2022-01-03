@@ -10,7 +10,7 @@
   
 - Languages: 
   - advance : c, c++, java, html, css.
-  - intermediate: puython, javascript.
+  - intermediate: python, javascript.
 - Frame works:
   jQuary, jsp, scss.
 <!---
