@@ -6,7 +6,7 @@
   - email : himanshushukla1805@gmail.com
   - alternate email : it1928@global.org.in
   - contact number: +918602897727
-  - linkedin : linkedin.com/in/himanshushukla26
+  - linkedin : [linkedin.com/in/himanshushukla26](https://www.linkedin.com/in/himanshushukla26/)
   
 - Languages: 
   - advance : c, c++, java, html, css.
