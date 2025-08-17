@@ -20,6 +20,11 @@ Built ADF–NiFi–Databricks pipelines processing 17M+ broadband records daily 
 
   - 🔹 Network Performance Tracking System
 Engineered a real-time monitoring platform consuming 2TB+ daily Kafka streams with Spark. Built anomaly detection, reducing incident response times by 40% and achieving 99.9% delivery rate across multi-channel notifications.
+
+- 📫 Let’s Connect!
+  - LinkedIn: linkedin.com/in/himanshushukla26
+
+  - Email: himanshushukla2604@gmail.com
 <!---
 himanshushukla2604/himanshushukla2604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
